@@ -1,6 +1,7 @@
 # flutter_akts_hesaplama
 
-A new Flutter project.
+Flutter ile basic düzeyde geliştirmeye çalıştığım bu uygulamada, yalnızca bir adet Screen kullandım.
+Dilediğiniz kadar Ders adını girdikten sonra harf notunuzu ve kredi değerini girip, dönem ortalamasını hesaplayabildiğiniz bir App.
 
 ## Getting Started
 
